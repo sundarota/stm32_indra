@@ -1,4 +1,5 @@
 {
 "link": "https://raw.github.com/sundarota/stm32_indra/blob/main/build/stm32f103_1.bin",
 "Mandatory": false
+ "sw" :3.0
 }
