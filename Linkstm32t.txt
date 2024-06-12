@@ -1,4 +1,4 @@
 {
-"link": https://github.com/sundarota/stm32_indra/blob/main/stm32f103_3.bin,
+"link": https://github.com/sundarota/stm32_indra/blob/main/Blink411.bin,
 "Mandatory": false
 }
