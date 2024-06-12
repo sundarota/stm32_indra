@@ -1,4 +1,4 @@
 {
-"link": https://github.com/sundarota/stm32_indra/blob/main/stm32f103_2.bin,
+"link": https://github.com/sundarota/stm32_indra/blob/main/stm32f103_3.bin,
 "Mandatory": false
 }
